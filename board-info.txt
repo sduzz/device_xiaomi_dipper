@@ -1,1 +1,1 @@
-require version-baseband=MPSS.AT.4.0.c2.6-00319-SDM845_GEN_PACK-1,9.12.12
+require version-baseband=MPSS.AT.4.0.c2.6-00319-SDM845_GEN_PACK-1|MPSS.AT.4.0.c2.6-00327-SDM845_GEN_PACK-1,9.12.12
